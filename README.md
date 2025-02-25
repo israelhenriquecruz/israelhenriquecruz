@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou Israel Henrique Cruz
 
-<!--
-**israelhenriquecruz/israelhenriquecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Física** na UFPR | 💻 **Tecnólogo em Inteligência Artificial** na Universidade Positivo  
+🔬 **Pesquisador em Nanomateriais** utilizando Simulação Computacional e Machine Learning  
+📊 Interessado em **Data Science**, **Machine Learning** e aplicações de **IA** na pesquisa científica e no mercado
 
-Here are some ideas to get you started:
+## 🚀 **Minhas Principais Habilidades**
+- 🧠 **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn  
+- 📊 **Análise de Dados:** Pandas, Numpy, Matplotlib, Seaborn  
+- 💻 **Simulação Computacional:** LAMMPS  
+- 🗃️ **Banco de Dados:** SQL básico  
+- 🐍 **Linguagens de Programação:** Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 **O Que Estou Aprendendo Agora**
+- Processamento de Imagens (Computer Vision)  
+- Processamento de Linguagem Natural (NLP)  
+- Visualização de Dados Avançada  
+
+## 💡 **Vamos Conectar?**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/israel-henrique-cruz-196098353/)
